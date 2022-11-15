@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'About Jinyang',
   domain: 'https://absorbed-comic-d59.notion.site/LI-Jinyang-c2627353557647e18c065ce0a864b1d9',
-  author: 'Jinyang LI',
+  author: 'Jinyang',
 
   // open graph metadata (optional)
   description: 'Example site description',
